@@ -1,0 +1,16 @@
+body{
+    
+    --accent_gradient_fainted:linear-gradient(90deg, #f8d0be, #f7b08f);
+    --accent_gradient_vibrant:linear-gradient(90deg, #ea7d4b, #f47033);
+    --btn_min_width:10em;
+}
+.main_sec{
+    --def_line_width:3em;
+    --hover_line_width:6em;
+    margin-top: 1em;
+}
+
+.game_cover{
+    
+    mask:linear-gradient(white 95%, transparent);
+}
